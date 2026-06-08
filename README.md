@@ -2,8 +2,8 @@
 
 A fully interactive CRM analytics project built in **Microsoft Power BI**, analyzing a B2B sales pipeline across agents, regions, products, and sectors.
 
-![Executive Dashboard](Executive%Dashboard.png)
-![Sales Performance & Insights](Sales%Performance%Dashboard.png)
+![Executive Dashboard](Executive%20Dashboard.png)
+![Sales Performance & Insights](Sales%20Performance%20Dashboard.png)
 
 ---
 
@@ -23,7 +23,7 @@ crm-powerbi-dashboard/
 │
 └── screenshots/
     ├── Executive Dashboard.png   # Executive Sales Dashboard
-    └── Sales Performance Dashboard.png   # Sales Performance & Insights
+    └── Sales Performance & Insights.png   # Sales Performance & Insights
 ```
 
 ---
@@ -94,3 +94,4 @@ Operational detail for sales managers:
 - Deal stages follow the flow: `Prospecting → Engaging → Won / Lost`
 
 ---
+
